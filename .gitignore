@@ -1,0 +1,17 @@
+node_modules/
+dist/
+backup-full-site/
+
+# Screenshots de referência (evitar arquivos gigantes no Git)
+screenshot-*.png
+
+# Arquivos auxiliares de debug/relatórios
+audit.json
+assets-report.md
+backup_full_site.js
+rebuild-plan.md
+
+# Variáveis locais (se existirem)
+.env
+.env.*
+
